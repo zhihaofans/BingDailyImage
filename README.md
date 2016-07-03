@@ -1,4 +1,4 @@
-# BingBackground
+# BingDailyImage
 功能介绍:
 >用来抓取http://cn.bing.com/ 的每日背景
 >
